@@ -1,0 +1,4 @@
+C:\Users\Нургиза\source\repos\Lab_rab_4.1_KhasanovaNG_BPI_23_01\Lab_rab_4.1_KhasanovaNG_BPI_23_01\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Нургиза\source\repos\Lab_rab_4.1_KhasanovaNG_BPI_23_01\Lab_rab_4.1_KhasanovaNG_BPI_23_01\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Нургиза\source\repos\Lab_rab_4.1_KhasanovaNG_BPI_23_01\Lab_rab_4.1_KhasanovaNG_BPI_23_01\obj\Debug\net8.0-windows\Lab_rab_4.1_KhasanovaNG_BPI_23_01_MarkupCompile.cache
+C:\Users\Нургиза\source\repos\Lab_rab_4.1_KhasanovaNG_BPI_23_01\Lab_rab_4.1_KhasanovaNG_BPI_23_01\obj\Debug\net8.0-windows\Lab_rab_4.1_KhasanovaNG_BPI_23_01_MarkupCompile.lref
