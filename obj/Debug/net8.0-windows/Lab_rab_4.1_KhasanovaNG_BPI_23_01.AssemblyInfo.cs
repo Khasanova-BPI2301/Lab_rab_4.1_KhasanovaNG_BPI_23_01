@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab_rab_4.1_KhasanovaNG_BPI_23_01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ccb89eb8012dd037996d55bf8f400c56e60e0a4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b1b84b4fa9d603fdf052cadd320998c8c3ae251f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab_rab_4.1_KhasanovaNG_BPI_23_01")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab_rab_4.1_KhasanovaNG_BPI_23_01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
