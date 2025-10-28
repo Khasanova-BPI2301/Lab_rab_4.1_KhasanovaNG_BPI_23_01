@@ -11,6 +11,7 @@ using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Shapes;
+using Lab_rab_4._1_KhasanovaNG_BPI_23_01.ViewModel;
 
 namespace Lab_rab_4._1_KhasanovaNG_BPI_23_01.View
 {
@@ -22,6 +23,8 @@ namespace Lab_rab_4._1_KhasanovaNG_BPI_23_01.View
         public WindowRole()
         {
             InitializeComponent();
+            RoleViewModel vmRole = new RoleViewModel();
+            lvRole.ItemsSource = vmRole.ListRole;
         }
     }
 }
