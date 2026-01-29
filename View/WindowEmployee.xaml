@@ -20,5 +20,11 @@
                 </GridView>
             </ListView.View>
         </ListView>
+
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10">
+            <Button Content="Добавить" Click="BtnAdd_Click" Margin="5"/>
+            <Button Content="Редактировать" Click="BtnEdit_Click" Margin="5"/>
+            <Button Content="Удалить" Click="BtnDelete_Click" Margin="5"/>
+        </StackPanel>
     </StackPanel>
 </Window>
